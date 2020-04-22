@@ -1,6 +1,6 @@
 # django_docker
 
-`docker-compose run --rm web django-admin startproject blogsite .`
+`docker-compose run --rm web django-admin startproject django_docker .`
 
 `docker-compose run --rm web django-admin startapp app`
 
